@@ -5,7 +5,7 @@ DP Eng's ICM-20948 Breakout Board is specifically developed for this library wit
 
 <s>DP Eng ICM-20948 Breakout Board eBay Link with tracked international shipping</s> Sold out!
 
-<s>DP Eng ICM-20948 Breakout Board available @ Amazon.co.uk</s>
+<s>DP Eng ICM-20948 Breakout Board available @ Amazon.co.uk</s> Sold out!
 
 <img src="https://i.ebayimg.com/images/g/rYYAAOSwbURckVpf/s-l1600.jpg" />
 The DP Eng ICM-20948 Breakout Board
